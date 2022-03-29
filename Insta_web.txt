@@ -13,3 +13,5 @@ Author: Keny
 5. Posting code
 
 6. Profile code
+
+7. Delete chat history code
